@@ -4,5 +4,6 @@
 
 int main(int argc, char** argv) {
 	int n=0;
+	int b=0;
 	return 0;
 }
